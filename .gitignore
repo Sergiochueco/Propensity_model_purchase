@@ -1,0 +1,7 @@
+*.csv
+*.log
+*.pdf
+*.log
+**/Data
+**/datasets_TFM + diccionario
+**/Data\datasets_TFM + diccionario
